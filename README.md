@@ -32,144 +32,22 @@ class DeveloperProfile {
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 🎮 Interactive Zone - Click to Play!
+### 🔥 What I'm Up To
 
-<details>
-<summary>🚗 <strong>Drive My Virtual Car</strong> (Click to expand the racing game!)</summary>
+- 🚀 **Currently Building:** A sophisticated Dating App with advanced matching algorithms
+- 📚 **Learning:** Advanced Flutter patterns, Riverpod, and Clean Architecture
+- 🤝 **Open to Collaborate:** Mobile app projects using Flutter & React Native
+- ✍️ **Content Creator:** Writing technical articles on [Medium](https://medium.com/@chanidumadalagama)
+- 💡 **Ask Me About:** Flutter widgets, app architecture, and mobile UI/UX
 
-```
-🏁 WELCOME TO CHANIDU'S RACE TRACK! 🏁
+### 🌟 Professional Journey
 
-    🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳
-    🏁                                🏁
-    🛤️  Use WASD or Arrow Keys:        🛤️
-    🛤️  ⬆️ W/↑  - Speed Up             🛤️
-    🛤️  ⬇️ S/↓  - Slow Down            🛤️
-    🛤️  ⬅️ A/←  - Turn Left            🛤️
-    🛤️  ➡️ D/→  - Turn Right           🛤️
-    🛤️                                🛤️
-    🛤️         🚗 <- You are here!     🛤️
-    🛤️                                🛤️
-    🛤️  Avoid: 🌳 Trees  🕳️ Holes      🛤️
-    🛤️  Collect: ⭐ Stars  🏆 Trophies   🛤️
-    🛤️                                🛤️
-    🏁  Current Score: 0 points        🏁
-    🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳
-
-🎯 Challenge: Can you collect 10 stars without crashing?
-```
-
-</details>
-
-<details>
-<summary>🎲 <strong>Code Guess Game</strong> (Test your programming knowledge!)</summary>
-
-```
-🧩 GUESS THE PROGRAMMING CONCEPT! 🧩
-
-Question 1: What does this Flutter widget do?
-```dart
-Widget build(BuildContext context) {
-  return AnimatedContainer(
-    duration: Duration(seconds: 1),
-    color: isPressed ? Colors.blue : Colors.red,
-    child: Text("Click me!"),
-  );
-}
-```
-
-A) Creates a static container
-B) Creates an animated color-changing container  ✅
-C) Creates a scrollable list
-D) Creates a navigation bar
-
-🎉 Correct! It creates a container that smoothly animates between colors!
-
-Score: 🏆🏆🏆 (3/10 questions completed)
-```
-
-</details>
-
-<details>
-<summary>🎨 <strong>ASCII Art Gallery</strong> (Click for animated art!)</summary>
-
-```
-🖼️ CHANIDU'S DIGITAL ART COLLECTION 🖼️
-
-🎨 Art #1: "The Flutter Developer"
-    ╭─────────╮
-    │ ◉     ◉ │  <- That's me coding!
-    │    ◡    │
-    ╰─────────╯
-         │
-    ╭────┴────╮
-    │ <CODING>│
-    ╰─────────╯
-
-🎨 Art #2: "Mobile App Journey"
-📱 ➜ 💡 ➜ 🖥️ ➜ 🔧 ➜ 🚀 ➜ ⭐
-
-🎨 Art #3: "Sri Lankan Pride"
-      🇱🇰
-   ╭─────╮
-   │ 🏝️  │  Beautiful Sri Lanka!
-   ╰─────╯
-
-Click ⬅️ Previous | Next ➡️ to see more art!
-```
-
-</details>
-
-<details>
-<summary>🎪 <strong>Virtual Pet Coder</strong> (Adopt a coding companion!)</summary>
-
-```
-🐱 MEET FLUFFY THE CODE CAT! 🐱
-
-   ╭─────╮
-   │ ^   ^ │
-   │  ◡   │  <- Fluffy (Level 5 Coder Cat)
-   ╰──┬──╯
-      │
-  ════╧════
-
-Status: 😊 Happy | 🍖 Fed | 💡 Learning Flutter
-
-Activities:
-🎮 [Play] - Play fetch with a rubber duck
-🍖 [Feed] - Give Fluffy some code snacks  
-📚 [Teach] - Teach new programming tricks
-🧹 [Clean] - Clean up spaghetti code
-💤 [Rest] - Let Fluffy take a power nap
-
-Fluffy says: "Meow! Want to pair program? 🐾"
-
-Fun Fact: Fluffy has debugged 1,247 apps and counting!
-```
-
-</details>
-
-### 🗺️ My Developer Journey Map
-
-```
-🌟 THE ADVENTURE CONTINUES... 🌟
-
-2020 ╭─🌱─╮ Started coding journey
-     │     │
-2021 ╰─📱─╯ First mobile app
-     │     │
-2022 ╭─🚀─╮ Flutter expertise unlocked
-     │     │
-2023 ╰─💼─╯ Senior developer role
-     │     │
-2024 ╭─❤️─╮ Dating app specialist
-     │     │
-2025 ╰─🎯─╯ YOU ARE HERE! Building the future
-     │     │
-???? ╭─🌟─╮ Next adventure awaits...
-
-🎒 Inventory: [Flutter Skills] [Problem Solving] [Team Leadership] [Innovation]
-```
+**2020** - Started my coding adventure with mobile development  
+**2021** - Built my first professional mobile application  
+**2022** - Mastered Flutter and became a cross-platform expert  
+**2023** - Stepped into senior developer role with team leadership  
+**2024** - Specialized in dating app development and user experience  
+**2025** - Continuing to innovate and build amazing mobile experiences
 
 ### 📫 Let's Connect!
 
@@ -194,30 +72,10 @@ Fun Fact: Fluffy has debugged 1,247 apps and counting!
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chanidumadalagama&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🏆 Achievement Unlocked!
+## 🏆 GitHub Trophies
 
 <div align="center">
-
-```
-🎖️ DEVELOPER BADGES COLLECTION 🎖️
-
-┌─────────────────────────────────────┐
-│ 🥇 Flutter Master        [EARNED]   │
-│ 🏅 Code Ninja           [EARNED]   │
-│ 🎯 Problem Solver       [EARNED]   │
-│ 🌟 Innovation Expert    [EARNED]   │
-│ 🚀 App Launch Pro       [EARNED]   │
-│ 🤝 Team Player         [EARNED]   │
-│ 📚 Continuous Learner   [EARNED]   │
-│ 🎨 UI/UX Enthusiast    [EARNED]   │
-│ 🔧 Debug Detective     [IN PROGRESS] │
-│ 🌍 Global Collaborator [LOCKED]    │
-└─────────────────────────────────────┘
-
-Progress: ████████░░ 80% Complete
-Next Badge: Debug 1000 issues to unlock "Debug Detective"!
-```
-
+  <img src="https://github-profile-trophy.vercel.app/?username=chanidumadalagama&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
 ## 🎭 Interactive Character Selection
