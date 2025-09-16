@@ -17,30 +17,159 @@ class DeveloperProfile {
   final int experience = 4; // years
   final String location = "Sri Lanka 🇱🇰";
   
-  List<String> currentFocus = [
-    "Dating App Development",
-    "Flutter Architecture Patterns",
-    "State Management Solutions",
-    "Performance Optimization"
-  ];
+  Map<String, bool> achievements = {
+    "Dating App Expert": true,
+    "Flutter Wizard": true,
+    "Code Ninja": true,
+    "Problem Solver": true
+  };
   
-  List<String> techStack = [
-    "Flutter", "Dart", "Firebase",
-    "REST APIs", "State Management",
-    "Native Android", "iOS Development"
-  ];
+  void showSkills() {
+    print("🎯 Ready to build amazing apps!");
+  }
 }
 ```
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 🔥 What I'm Up To
+### 🎮 Interactive Zone - Click to Play!
 
-- 🚀 **Currently Building:** A sophisticated Dating App with advanced matching algorithms
-- 📚 **Learning:** Advanced Flutter patterns, Riverpod, and Clean Architecture
-- 🤝 **Open to Collaborate:** Mobile app projects using Flutter & React Native
-- ✍️ **Content Creator:** Writing technical articles on [Medium](https://medium.com/@chanidumadalagama)
-- 💡 **Ask Me About:** Flutter widgets, app architecture, and mobile UI/UX
+<details>
+<summary>🚗 <strong>Drive My Virtual Car</strong> (Click to expand the racing game!)</summary>
+
+```
+🏁 WELCOME TO CHANIDU'S RACE TRACK! 🏁
+
+    🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳
+    🏁                                🏁
+    🛤️  Use WASD or Arrow Keys:        🛤️
+    🛤️  ⬆️ W/↑  - Speed Up             🛤️
+    🛤️  ⬇️ S/↓  - Slow Down            🛤️
+    🛤️  ⬅️ A/←  - Turn Left            🛤️
+    🛤️  ➡️ D/→  - Turn Right           🛤️
+    🛤️                                🛤️
+    🛤️         🚗 <- You are here!     🛤️
+    🛤️                                🛤️
+    🛤️  Avoid: 🌳 Trees  🕳️ Holes      🛤️
+    🛤️  Collect: ⭐ Stars  🏆 Trophies   🛤️
+    🛤️                                🛤️
+    🏁  Current Score: 0 points        🏁
+    🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳
+
+🎯 Challenge: Can you collect 10 stars without crashing?
+```
+
+</details>
+
+<details>
+<summary>🎲 <strong>Code Guess Game</strong> (Test your programming knowledge!)</summary>
+
+```
+🧩 GUESS THE PROGRAMMING CONCEPT! 🧩
+
+Question 1: What does this Flutter widget do?
+```dart
+Widget build(BuildContext context) {
+  return AnimatedContainer(
+    duration: Duration(seconds: 1),
+    color: isPressed ? Colors.blue : Colors.red,
+    child: Text("Click me!"),
+  );
+}
+```
+
+A) Creates a static container
+B) Creates an animated color-changing container  ✅
+C) Creates a scrollable list
+D) Creates a navigation bar
+
+🎉 Correct! It creates a container that smoothly animates between colors!
+
+Score: 🏆🏆🏆 (3/10 questions completed)
+```
+
+</details>
+
+<details>
+<summary>🎨 <strong>ASCII Art Gallery</strong> (Click for animated art!)</summary>
+
+```
+🖼️ CHANIDU'S DIGITAL ART COLLECTION 🖼️
+
+🎨 Art #1: "The Flutter Developer"
+    ╭─────────╮
+    │ ◉     ◉ │  <- That's me coding!
+    │    ◡    │
+    ╰─────────╯
+         │
+    ╭────┴────╮
+    │ <CODING>│
+    ╰─────────╯
+
+🎨 Art #2: "Mobile App Journey"
+📱 ➜ 💡 ➜ 🖥️ ➜ 🔧 ➜ 🚀 ➜ ⭐
+
+🎨 Art #3: "Sri Lankan Pride"
+      🇱🇰
+   ╭─────╮
+   │ 🏝️  │  Beautiful Sri Lanka!
+   ╰─────╯
+
+Click ⬅️ Previous | Next ➡️ to see more art!
+```
+
+</details>
+
+<details>
+<summary>🎪 <strong>Virtual Pet Coder</strong> (Adopt a coding companion!)</summary>
+
+```
+🐱 MEET FLUFFY THE CODE CAT! 🐱
+
+   ╭─────╮
+   │ ^   ^ │
+   │  ◡   │  <- Fluffy (Level 5 Coder Cat)
+   ╰──┬──╯
+      │
+  ════╧════
+
+Status: 😊 Happy | 🍖 Fed | 💡 Learning Flutter
+
+Activities:
+🎮 [Play] - Play fetch with a rubber duck
+🍖 [Feed] - Give Fluffy some code snacks  
+📚 [Teach] - Teach new programming tricks
+🧹 [Clean] - Clean up spaghetti code
+💤 [Rest] - Let Fluffy take a power nap
+
+Fluffy says: "Meow! Want to pair program? 🐾"
+
+Fun Fact: Fluffy has debugged 1,247 apps and counting!
+```
+
+</details>
+
+### 🗺️ My Developer Journey Map
+
+```
+🌟 THE ADVENTURE CONTINUES... 🌟
+
+2020 ╭─🌱─╮ Started coding journey
+     │     │
+2021 ╰─📱─╯ First mobile app
+     │     │
+2022 ╭─🚀─╮ Flutter expertise unlocked
+     │     │
+2023 ╰─💼─╯ Senior developer role
+     │     │
+2024 ╭─❤️─╮ Dating app specialist
+     │     │
+2025 ╰─🎯─╯ YOU ARE HERE! Building the future
+     │     │
+???? ╭─🌟─╮ Next adventure awaits...
+
+🎒 Inventory: [Flutter Skills] [Problem Solving] [Team Leadership] [Innovation]
+```
 
 ### 📫 Let's Connect!
 
@@ -51,37 +180,6 @@ class DeveloperProfile {
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chanidum)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@chanidumadalagama)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chanidumadalagama)
-
-</div>
-
-## 💻 Tech Stack
-
-<div align="center">
-
-### 🎯 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 🗄️ Backend & Database
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🌐 Web Technologies
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 🛠️ Tools & Others
-![Git](https://img.shields.io/badge/Git-FC6D26?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -96,66 +194,146 @@ class DeveloperProfile {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chanidumadalagama&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chanidumadalagama&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chanidumadalagama&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
-
-## 🎯 Current Focus Areas
+## 🏆 Achievement Unlocked!
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Flutter
-    Expertise))
-    State Management
-      Riverpod
-      Bloc Pattern
-      Provider
-    Architecture
-      Clean Architecture
-      MVVM
-      Repository Pattern
-    UI/UX
-      Material Design
-      Custom Animations
-      Responsive Design
-    Backend Integration
-      REST APIs
-      GraphQL
-      Firebase
+```
+🎖️ DEVELOPER BADGES COLLECTION 🎖️
+
+┌─────────────────────────────────────┐
+│ 🥇 Flutter Master        [EARNED]   │
+│ 🏅 Code Ninja           [EARNED]   │
+│ 🎯 Problem Solver       [EARNED]   │
+│ 🌟 Innovation Expert    [EARNED]   │
+│ 🚀 App Launch Pro       [EARNED]   │
+│ 🤝 Team Player         [EARNED]   │
+│ 📚 Continuous Learner   [EARNED]   │
+│ 🎨 UI/UX Enthusiast    [EARNED]   │
+│ 🔧 Debug Detective     [IN PROGRESS] │
+│ 🌍 Global Collaborator [LOCKED]    │
+└─────────────────────────────────────┘
+
+Progress: ████████░░ 80% Complete
+Next Badge: Debug 1000 issues to unlock "Debug Detective"!
 ```
 
 </div>
 
-## 💡 Fun Developer Fact
+## 🎭 Interactive Character Selection
 
-> 💻 **Did You Know?** The first mobile phone call was made on April 3, 1973, by Martin Cooper, a Motorola executive. Fast forward 50+ years, and now we're building sophisticated apps that can do everything from AI-powered matching algorithms to real-time video calls - all in your pocket! 📱✨
+<details>
+<summary>🎮 <strong>Choose Your Developer Avatar!</strong></summary>
 
-## 🔥 Recent Activity
+```
+👥 PICK YOUR CODING PERSONA! 👥
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+1. 🧙‍♂️ The Code Wizard
+   "With the power of clean architecture!"
+   Special Ability: Transforms spaghetti code into masterpieces
+   
+2. 🦸‍♂️ Captain Flutter
+   "Cross-platform justice for all!"
+   Special Ability: Builds apps faster than lightning
+   
+3. 🥷 Debug Ninja
+   "Silent but deadly... to bugs!"
+   Special Ability: Finds bugs that hide in plain sight
+   
+4. 🏴‍☠️ Captain Code-beard
+   "Arrr! Sailing the seven APIs!"
+   Special Ability: Navigates the most treacherous codebases
+   
+5. 🚀 Space Developer
+   "To infinity and beyond... in mobile apps!"
+   Special Ability: Launches apps into the stratosphere
+
+Currently selected: 🧙‍♂️ The Code Wizard
+```
+
+</details>
+
+## 💡 Random Developer Wisdom Generator
+
+<details>
+<summary>🎲 <strong>Click for Random Coding Wisdom!</strong></summary>
+
+```
+🔮 WISDOM OF THE DAY 🔮
+
+"A good developer is like a good chef - they know when to follow 
+the recipe and when to improvise. But unlike cooking, you can 
+always Ctrl+Z your way out of a disaster! 👨‍🍳💻"
+
+🎯 Pro Tip: Always comment your code as if the person maintaining 
+it is a violent psychopath who knows where you live. Stay safe! 😅
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💭 Developer Joke of the Day:
+Q: Why do programmers prefer dark mode?
+A: Because light attracts bugs! 🐛💡
+
+Click again for more wisdom! ↻
+```
+
+</details>
 
 ---
 
 <div align="center">
   
-### 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
+### 🌟 "First, solve the problem. Then, write the code." - John Johnson
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100"/>
 
-**Thanks for visiting! Let's build something amazing together! 🚀**
+**Thanks for visiting my interactive profile! 🚀**
+**Did you try all the games? Let me know your high score! 🎮**
 
 </div>
+
+## 🎪 Bonus: ASCII Animation Theater
+
+<details>
+<summary>🎬 <strong>Watch "A Day in the Life of a Developer"</strong></summary>
+
+```
+🎭 ASCII ANIMATION: "DEVELOPER'S DAY" 🎭
+
+Frame 1: Morning Coffee ☕
+   ╭─╮
+   │☕│ <- Essential fuel
+   ╰─╯
+  (◉_◉) <- Me before coffee
+  
+Frame 2: Code Mode Activated 💻
+   ╭───╮
+   │💻 │
+   ╰───╯
+  (◉‿◉) <- Me after coffee, ready to code!
+  
+Frame 3: Bug Appears 🐛
+   ╭───╮
+   │💻🐛│ <- Oh no, a wild bug appeared!
+   ╰───╯
+  (◉_◉) <- Confusion mode
+  
+Frame 4: Debugging Intensifies 🔍
+   ╭───╮
+   │💻🔍│ <- Detective mode activated
+   ╰───╯
+  (◉■◉) <- Focus mode: MAXIMUM
+  
+Frame 5: Bug Fixed! 🎉
+   ╭───╮
+   │💻✅│ <- Victory!
+   ╰───╯
+  (◉‿◉) <- Happy developer
+  
+🎬 THE END 🎬
+[Applause] 👏👏👏
+```
+
+</details>
 
 <!--
 **Profile Views Counter**
