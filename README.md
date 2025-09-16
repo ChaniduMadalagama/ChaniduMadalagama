@@ -78,63 +78,20 @@ class DeveloperProfile {
   <img src="https://github-profile-trophy.vercel.app/?username=chanidumadalagama&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
-## 🎭 Interactive Character Selection
+## 📈 Contribution Graph
 
-<details>
-<summary>🎮 <strong>Choose Your Developer Avatar!</strong></summary>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chanidumadalagama&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
 
-```
-👥 PICK YOUR CODING PERSONA! 👥
+## 💡 Fun Developer Fact
 
-1. 🧙‍♂️ The Code Wizard
-   "With the power of clean architecture!"
-   Special Ability: Transforms spaghetti code into masterpieces
-   
-2. 🦸‍♂️ Captain Flutter
-   "Cross-platform justice for all!"
-   Special Ability: Builds apps faster than lightning
-   
-3. 🥷 Debug Ninja
-   "Silent but deadly... to bugs!"
-   Special Ability: Finds bugs that hide in plain sight
-   
-4. 🏴‍☠️ Captain Code-beard
-   "Arrr! Sailing the seven APIs!"
-   Special Ability: Navigates the most treacherous codebases
-   
-5. 🚀 Space Developer
-   "To infinity and beyond... in mobile apps!"
-   Special Ability: Launches apps into the stratosphere
+> 💻 **Did You Know?** The first mobile phone call was made on April 3, 1973, by Martin Cooper, a Motorola executive. Fast forward 50+ years, and now we're building sophisticated apps that can do everything from AI-powered matching algorithms to real-time video calls - all in your pocket! 📱✨
 
-Currently selected: 🧙‍♂️ The Code Wizard
-```
+## 🔥 Recent Activity
 
-</details>
-
-## 💡 Random Developer Wisdom Generator
-
-<details>
-<summary>🎲 <strong>Click for Random Coding Wisdom!</strong></summary>
-
-```
-🔮 WISDOM OF THE DAY 🔮
-
-"A good developer is like a good chef - they know when to follow 
-the recipe and when to improvise. But unlike cooking, you can 
-always Ctrl+Z your way out of a disaster! 👨‍🍳💻"
-
-🎯 Pro Tip: Always comment your code as if the person maintaining 
-it is a violent psychopath who knows where you live. Stay safe! 😅
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-💭 Developer Joke of the Day:
-Q: Why do programmers prefer dark mode?
-A: Because light attracts bugs! 🐛💡
-
-Click again for more wisdom! ↻
-```
-
-</details>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
@@ -144,54 +101,9 @@ Click again for more wisdom! ↻
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100"/>
 
-**Thanks for visiting my interactive profile! 🚀**
-**Did you try all the games? Let me know your high score! 🎮**
+**Thanks for visiting! Let's build something amazing together! 🚀**
 
 </div>
-
-## 🎪 Bonus: ASCII Animation Theater
-
-<details>
-<summary>🎬 <strong>Watch "A Day in the Life of a Developer"</strong></summary>
-
-```
-🎭 ASCII ANIMATION: "DEVELOPER'S DAY" 🎭
-
-Frame 1: Morning Coffee ☕
-   ╭─╮
-   │☕│ <- Essential fuel
-   ╰─╯
-  (◉_◉) <- Me before coffee
-  
-Frame 2: Code Mode Activated 💻
-   ╭───╮
-   │💻 │
-   ╰───╯
-  (◉‿◉) <- Me after coffee, ready to code!
-  
-Frame 3: Bug Appears 🐛
-   ╭───╮
-   │💻🐛│ <- Oh no, a wild bug appeared!
-   ╰───╯
-  (◉_◉) <- Confusion mode
-  
-Frame 4: Debugging Intensifies 🔍
-   ╭───╮
-   │💻🔍│ <- Detective mode activated
-   ╰───╯
-  (◉■◉) <- Focus mode: MAXIMUM
-  
-Frame 5: Bug Fixed! 🎉
-   ╭───╮
-   │💻✅│ <- Victory!
-   ╰───╯
-  (◉‿◉) <- Happy developer
-  
-🎬 THE END 🎬
-[Applause] 👏👏👏
-```
-
-</details>
 
 <!--
 **Profile Views Counter**
